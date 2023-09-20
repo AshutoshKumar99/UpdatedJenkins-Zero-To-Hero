@@ -7,7 +7,7 @@ Are you looking forward to learn Jenkins right from Zero(installation) to Hero(B
 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
 
-## AWS EC2 Instance
+## AWS EC2 Instance , good to use t2.large in place of t2.micro
 
 - Go to AWS Console
 - Instances(running)
